@@ -1,0 +1,394 @@
+body{
+	background-color: white;
+
+}
+
+.map{
+
+	position: absolute;
+	left: 390px;
+	top: 100px;
+}
+
+.honnold{
+	color: transparent;
+	position: absolute;
+	left: 700px;
+	top: 230px;
+}
+.huntley{
+	color: transparent;
+	position: absolute;
+	left: 600px;
+	top: 250px;
+}
+.pendleton{
+	color: transparent;
+	position: absolute;
+	left: 600px;
+	top: 300px;
+}
+.tran{
+	color: transparent;
+	position: absolute;
+	left: 670px;
+	top: 310px;
+}
+.seavb{
+color: transparent;
+	position: absolute;
+	left: 400px;
+	top: 410px;
+}
+.seavn{
+color: transparent;
+	position: absolute;
+	left: 455px;
+	top: 385px;
+}
+.seavs{
+color: transparent;
+	position: absolute;
+	left: 455px;
+	top: 430px;
+}
+.mudd{
+color: transparent;
+	position: absolute;
+	left: 580px;
+	top: 385px;
+}
+.milk{
+	color: transparent;
+	position: absolute;
+	left: 560px;
+	top: 420px;
+}
+.and{
+	color: transparent;
+	position: absolute;
+	left: 615px;
+	top: 420px;
+}
+.ed{
+	color: transparent;
+	position: absolute;
+	left: 670px;
+	top: 420px;
+}
+.co{
+	color: transparent;
+	position: absolute;
+	left: 625px;
+	top: 385px;
+}
+.lin{
+color: transparent;
+	position: absolute;
+	left: 675px;
+	top: 385px;
+}
+.walk{
+	color: transparent;
+	position: absolute;
+	left: 730px;
+	top: 355px;
+}
+.clark{
+	color: transparent;
+	position: absolute;
+	left: 735px;
+	top: 420px;
+}
+.clark1{
+	color: transparent;
+	position: absolute;
+	left: 820px;
+	top: 320px;
+}
+.fray{
+	color: transparent;
+	position: absolute;
+	left: 825px;
+	top: 380px;
+}
+.clark3{
+	color: transparent;
+	position: absolute;
+	left: 800px;
+	top: 410px;
+}
+.nor{
+	color: transparent;
+	position: absolute;
+	left: 830px;
+	top: 430px;
+}
+.law{
+	color: transparent;
+	position: absolute;
+	left: 850px;
+	top: 400px;
+}
+.wal{
+	color: transparent;
+	position: absolute;
+	left: 880px;
+	top: 430px;
+}
+.pomhall{
+	color: transparent;
+	position: absolute;
+	left: 880px;
+	top: 375px;
+}
+.son{
+	color: transparent;
+	position: absolute;
+	left: 880px;
+	top: 350px;
+}
+
+.mason{
+	color: transparent;
+	position: absolute;
+	left: 440px;
+	top:475px;
+}
+.crookshank{
+	color: transparent;
+	position: absolute;
+	left: 460px;
+	top:455px;
+}
+.pearsons{
+	color: transparent;
+	position: absolute;
+	left: 500px;
+	top:490px;
+}
+.alexadmin{
+	color: transparent;
+	position: absolute;
+	left: 530px;
+	top:490px;
+}
+.scc{
+	color: transparent;
+	position: absolute;
+	left: 575px;
+	top:475px;
+}
+.smiley{
+	color: transparent;
+	position: absolute;
+	left: 710px;
+	top:475px;
+}
+.rains{
+	color: transparent;
+	position: absolute;
+	left: 760px;
+	top:490px;
+}
+.merritt{
+	color: transparent;
+	position: absolute;
+	left: 840px;
+	top:475px;
+}
+.haldeman{
+	color: transparent;
+	position: absolute;
+	left: 895px;
+	top:460px;
+}
+.pauley{
+	color: transparent;
+	position: absolute;
+	left: 1000px;
+	top:460px;
+}
+.carnegie{
+	color: transparent;
+	position: absolute;
+	left: 500px;
+	top:570px;
+}
+.Hahn{
+	color: transparent;
+	position: absolute;
+	left: 470px;
+	top:570px;
+}
+.marston{
+	color: transparent;
+	position: absolute;
+	left: 575px;
+	top:565px;
+}
+.bridges{
+	color: transparent;
+	position: absolute;
+	left: 730px;
+	top:565px;
+}
+.baseball{
+	color: transparent;
+	position: absolute;
+	left: 840px;
+	top:540px;
+}
+.track{
+	color: transparent;
+	position: absolute;
+	left: 1025px;
+	top:570px;
+}
+.president{
+	color: transparent;
+	position: absolute;
+	left: 430px;
+	top:620px;
+}
+.seaverh{
+	color: transparent;
+	position: absolute;
+	left: 450px;
+	top: 670px;
+}
+.thatcher{
+	color: transparent;
+	position: absolute;
+	left: 570px;
+	top: 625px;
+}
+.museum{
+	color: transparent;
+	position: absolute;
+	left: 560px;
+	top: 665px;
+}
+.rembrandt{
+	color: transparent;
+	position: absolute;
+	left: 565px;
+	top: 675px;
+}
+.bridgesmusic{
+	color: transparent;
+	position: absolute;
+	left: 580px;
+	top: 640px;
+}
+.lebus{
+	color: transparent;
+	position: absolute;
+	left: 585px;
+	top: 660px;
+}
+.sumner{
+	color: transparent;
+	position: absolute;
+	left: 640px;
+	top: 650px;
+}
+.oldenborg{
+	color: transparent;
+	position: absolute;
+	left: 720px;
+	top: 650px;
+}
+.brackett{
+	color: transparent;
+	position: absolute;
+	left: 900px;
+	top: 600px;
+}
+.songtagtheatre{
+	color: transparent;
+	position: absolute;
+	left: 900px;
+	top: 650px;
+}
+
+.mudd_blaisdell{
+	color: transparent;
+	position: absolute;
+	left: 700px;
+	top: 700px;
+}
+.wig{
+	color: transparent;
+	position: absolute;
+	left:560px;
+	top:730px;
+}
+.harwood{
+	color: transparent;
+	position: absolute;
+	left:615px;
+	top:720px;
+}
+.lyon{
+	color: transparent;
+	position: absolute;
+	left:615px;
+	top:760px;
+}
+.gibson{
+	color: transparent;
+	position: absolute;
+	left:710px;
+	top:750px;
+}
+.frank{
+	color: transparent;
+	position: absolute;
+	left:770px;
+	top:740px;
+}
+.seaver_theater{
+	color: transparent;
+	position: absolute;
+	left:850px;
+	top:690px;
+}
+.pendleton_pool{
+	color: transparent;
+	position: absolute;
+	left:650px;
+	top:805px;
+}
+.sustainability_office{
+	color: transparent;
+	position: absolute;
+	left:700px;
+	top:800px;
+}
+.southparkingfield{
+	color: transparent;
+	position: absolute;
+	left:855px;
+	top:780px;
+}
+.goeun{
+	position:absolute;
+	left:15px;
+	top: 500px;
+}
+.sean{
+	position:absolute;
+	left:15px;
+	top: 600px;
+}
+.eric{
+	position:absolute;
+	left:15px;
+	top: 700px;
+}
+.kathie{
+	position:absolute;
+	left:15px;
+	top: 800px;
+}
